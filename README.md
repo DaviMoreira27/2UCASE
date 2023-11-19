@@ -18,10 +18,10 @@ Nosso projeto também nos ensinou sobre a importância do planejamento e da orga
 
 # Equipe
 
-João Assis - Product manager and Designer
-Davi Moreira - Full Stack Developer and DBA
-Davi Camargo - Database Analist (DBA)
-Samuel Machado - Designer
-Sophia Vieira - Front End Analist
-Andressa Rafaela - Documenter
-Kathleen Oliveira - Documenter
+João Assis - Product Manager and Designer <br>
+Davi Moreira - Full Stack Developer and DBA <br>
+Davi Camargo - Database Analist (DBA) <br>
+Samuel Machado - Designer <br>
+Sophia Vieira - Front End Developer <br>
+Andressa Rafaela - Documenter <br>
+Kathleen Oliveira - Documenter <br>
